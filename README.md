@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Gustavo Taima
 
 - 📚 Cursando ADS
-- 😄 Pronomes: Ele / Dele
 
 <div align="center">
   <a href="https://github.com/taima157">
