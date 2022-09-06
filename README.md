@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gustavo Taima
 
-- 📚 Cursando ADS
+- 📚 Cursando ADS - SENAI
 
 <div align="center">
   <a href="https://github.com/taima157">
