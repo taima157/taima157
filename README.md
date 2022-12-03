@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/taima157">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taima157&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=taima157&theme=react&hide_border=false)<br/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=taima157&theme=aura&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taima157&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
